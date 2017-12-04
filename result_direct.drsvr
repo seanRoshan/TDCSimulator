@@ -1,0 +1,34 @@
+##########################################################
+###                                                    ###
+###        DRSVR TRACE DRIVEN SIMULATOR RESULTS        ###
+###                                                    ###
+##########################################################
+Number of Approved Instructions: 64
+##########################################################
+This Configuration has been used
+CacheBlockSize: 256
+CacheSize: 2048
+PageSize: 1024
+Associativity: 1
+ReplacementPolicies: RANDOM
+ClockFrequency: 3.2E9
+CacheHitTime: 1
+CacheMissPenalty: 100
+AddressLine: 32
+##########################################################
+numberOfWays: 1
+numberOfBlocks: 8
+numberOfSets: 8
+##########################################################
+offsetBits: 8
+indexBits: 3
+tagBits: 21
+##########################################################
+Hits: 28
+Misses: 36
+ColdMisses: 8
+ConflictMisses: 28
+CapacityMisses: 0
+MissRate: 0.5625
+AverageMemoryAccessTime: 57.25
+##########################################################
